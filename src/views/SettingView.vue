@@ -552,9 +552,7 @@ hljs.registerLanguage('json', json)
 
 /* JSON 视图样式 */
 .json-view-container {
-  margin-top: 24px;
-  border-top: 1px dashed #e8e8e8;
-  padding-top: 24px;
+  padding-top: 0px;
 }
 
 .json-view {
